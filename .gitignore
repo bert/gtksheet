@@ -36,3 +36,6 @@ docs/reference/tmpl/*
 docs/reference/xml/*
 docs/tutorial/html/*
 stamp-h1
+*~
+.deps
+.msg
