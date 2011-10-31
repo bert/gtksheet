@@ -52,3 +52,6 @@ docs/reference/xml/*
 docs/tutorial/html/*
 docs/tutorial/Makefile.in
 stamp-h1
+*~
+.deps
+.msg
